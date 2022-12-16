@@ -2,7 +2,7 @@
 	Copyright 2020 Limeoats
 	Original project: https://github.com/Limeoats/L2DFileDialog
 	Changes by Vladimir Sigalkin https://github.com/Iam1337/ImGui-FileDialog
-    Ported to C# by W.M.R Jap-A-Joe https://github.com/japajoe
+	Ported to C# by W.M.R Jap-A-Joe https://github.com/japajoe
 */
 
 using System;
